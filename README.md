@@ -1,3 +1,6 @@
+![Estudando Java](https://img.shields.io/badge/Estudando-Java-blue)
+
+
 # Mini Projeto de Tabuada
 
 Este projeto foi criado como **exercício de estudo de Java**, usando comandos de controle de fluxo e entrada de dados pelo console.
